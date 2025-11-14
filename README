@@ -1,0 +1,42 @@
+ Personal Portfolio Website  
+
+Student Name: SHEHROZ 
+Student ID: 647556
+Course: Web-development  
+Instructor:  Sir Umer Sajad
+
+---
+
+ Project Summary  
+This project is a  created to present my background, skills, education, and web projects.  
+
+It demonstrates front-end development ability using HTML and Tailwind CSS (CLI) 
+The site includes a video background, smooth transitions, responsive layout, and a fixed interactive navigation bar.  
+
+---
+
+ Design Reference Files  
+- 
+- Project Documentation (Google Docs): https://docs.google.com/document/d/1TNDnO8NMKv-F2_EjPHPoZKcWgOlFf-19btMnAbs1m3M/edit?usp=sharing
+  
+
+
+---
+
+ Technologies Used  
+- HTML  
+- CSS  
+- Tailwind CSS (CLI Version)  
+
+---
+
+Color Palette and Typography  
+```css   
+    Sky blue header/nav 
+--  Amber nav background 
+--  Indigo hover color 
+--  Gray-800 text 
+--heading-1: 3-xl;        
+--heading-2: 2-xl;          
+--heading-3: 2-xl;        
+--paragraph: xl;          
